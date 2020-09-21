@@ -1,7 +1,7 @@
 # DE1_SoC_GameProject
 Here is the code of running airplane game project. 
 
-<img src="C:\Users\Danie\Documents\GitHub\DE1_SoC_GameProject\img\1.PNG" style="zoom: 67%;" />
+<img src="C:\Users\Danie\Documents\GitHub\DE1_SoC_GameProject\img\1.PNG" />
 
 ## Description
 We are trying to make an interesting game called “Moving Plane” for this project. The purpose of the game is to control the plane up and down to avoid coming walls. Users can collect 1 point by passing through the wall each time. Besides, the plane will be changed if the users hit the coin. the colour of the wall will be changed whenever the user is collecting 10 points. If the plane hits the wall, the game is over, and the user can press any KEY to start again. Below lists more detail of operating the "Moving Plane" game.
@@ -32,7 +32,7 @@ and 1, and they can also return to normal speed at any time when they
 are pressing those switches. LED0-1 are the value of indicating the 
 player is pressing the switches. 
 
-<img src="C:\Users\Danie\Documents\GitHub\DE1_SoC_GameProject\img\5.PNG" style="zoom:50%;" />
+<img src="C:\Users\Danie\Documents\GitHub\DE1_SoC_GameProject\img\5.PNG" />
 
 * The walls speed up and change colors when the player collects every 
 10 points, and each point corresponding with the times of passing the 
@@ -41,10 +41,11 @@ wall.
 #### Coin Event
 
 <figure class="third">
-    <img src="./img/2.PNG" width="200" height="150">
-    <img src="./img/3.png" width="200" height="150">
-    <img src="./img/6.png" width="200" height="150">
+    <img src="./img/2.PNG" width="200" height="150"> </img>
+    <img src="./img/3.png" width="200" height="150"> </img>
+    <img src="./img/6.png" width="200" height="150"> </img>
 </figure>
+
 
 
 
@@ -54,7 +55,7 @@ wall.
 
 #### Game Over
 
-<img src="C:\Users\Danie\Documents\GitHub\DE1_SoC_GameProject\img\4.PNG" style="zoom:50%;" />
+<img src="C:\Users\Danie\Documents\GitHub\DE1_SoC_GameProject\img\4.PNG"/>
 
 * END image will appear into screen  
 * If the aircraft is hit the wall, then game over. All scores and level difficulties will start at 0.
